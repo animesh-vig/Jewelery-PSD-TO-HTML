@@ -1,0 +1,192 @@
+@media(max-width: 768px) {
+  .Header .NavbarTop {
+    flex-direction: column;
+    height: 120px;
+    padding: 20px;
+  }
+
+
+  .Hero .TextBox h1 {
+    font-size: 4rem;
+  }
+
+  .InterestingHistory .TwoColumnLayout {
+    flex-direction: column;
+    padding-top: 4.5rem;
+  }
+
+  .InterestingHistory .TwoColumnLayout h2 {
+    text-align: center;
+  }
+
+  .InterestingHistory .TwoColumnLayout .Left {
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 2rem;
+  }
+
+  .InterestingHistory .TwoColumnLayout .Right {
+    font-size: 2rem;
+    font-weight: 100;
+  }
+
+  .InterestingHistory .TwoColumnLayout .Right .Paragraph-2 {
+    padding-top: 2.7rem;
+    display: inline-block;
+  }
+
+  .HowItWorks .SixColumnLayout .Col-1 {
+    font-size: 2rem;
+    padding-top: 6rem;
+  }
+
+  .HowItWorks .GridContainer {
+    margin-top: 2.5rem;
+    margin-bottom: 4.7rem;
+    display: block;
+    text-align: center;
+
+  }
+
+  .HowItWorks .GridContainer .GridItem .Paragraph-4 p {
+    font-size: 1.6rem;
+    margin-top: 1.6rem;
+    margin-right: 0;
+    padding-right: 0;
+  }
+
+  .RingMercury .TwoColumnLayout-2 {
+    padding-top: 10.5rem;
+    padding-bottom: 10.5rem;
+    text-align: center;
+  }
+
+  .RingMercury .TwoColumnLayout-2 .RingImage img {
+    height: 27rem;
+  }
+
+  .RingMercury .TwoColumnLayout-2 .Right .MercuryHeading h3 {
+    padding-top: 0;
+  }
+
+  .RingMercury .TwoColumnLayout-2 {
+    display: block;
+  }
+
+  .RingMercury .TwoColumnLayout-2 .Left {
+    width: 100%;
+  }
+
+  .RingMercury .TwoColumnLayout-2 .Right {
+    width: 100%;
+  }
+
+  .Button .BtnRed {
+    font-size: 2.1rem;
+    font-weight: 400;
+    padding: 0.5rem 3rem;
+  }
+
+  .ChooseUs .TwoColumnLayout-3 {
+    display: block;
+    text-align: center;
+  }
+
+  .ChooseUs .TwoColumnLayout-3 .Left {
+    margin-top: 8.5rem;
+  }
+
+  .ChooseUs .TwoColumnLayout-3 .Right {
+    display: block;
+    margin-left: 0;
+  }
+
+  .ChooseUs .TwoColumnLayout-3 .Right .FlexItems-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .ChooseUs .TwoColumnLayout-3 .Right .FlexItems-2 .Col-1 {
+    margin-top: 4rem;
+  }
+
+  .ChooseUs .TwoColumnLayout-4 .FlexImages-1 {
+    text-align: center;
+  }
+
+  .ChooseUs .TwoColumnLayout-4 .FlexImagesAndHeading-1 {
+    display: block;
+    text-align: center;
+  }
+
+  .ChooseUs .TwoColumnLayout-4 .FlexImagesAndHeading-1 .HeadingOurJewelery h2 {
+    padding-left: 0;
+  }
+
+  .ChooseUs .TwoColumnLayout-5 {
+    display: block;
+    padding-bottom: 6rem;
+  }
+
+  .CommentsFromOurCustomers .GridContainer {
+    display: block;
+    padding-left: 0;
+  }
+
+  .PhotoBlog .TwoColumnLayout-6 {
+    text-align: center;
+    margin-top: 6rem;
+  }
+
+  .PhotoBlog .TwoColumnLayout-6 .FlexImagesAndHeading-2 {
+    display: block;
+  }
+
+  .PhotoBlog .TwoColumnLayout-6 .FlexImagesAndHeading-2 .HeadingOurPhotoBlog h2 {
+    padding-bottom: 1.7rem;
+  }
+
+  .PhotoBlog .TwoColumnLayout-6 .FlexImagesAndHeading-2 .TwoImages {
+    margin-top: 2rem;
+  }
+
+  .PhotoBlog .TwoColumnLayout-7 {
+    display: block;
+  }
+
+  .PhotoBlog .TwoColumnLayout-7 .Content-2 {
+    padding-top: 2.5rem;
+  }
+}
+
+@media(max-width: 768px) {
+
+  .Hero .TextBox h1 {
+    font-size: 3rem;
+  }
+
+  .Hero .TextBox .BtnTransparent,
+  .Hero .TextBox .BtnRed {
+    font-size: 1.1rem;
+  }
+
+  .Header .NavbarTop a {
+    font-size: 1rem;
+  }
+
+  .Header .NavbarTop {
+    height: 9.5rem;
+  }
+
+  .FooterSection .FooterSub {
+    display: block;
+  }
+
+  .FooterSection .FooterSub .CopyRightSection {
+    padding-top: 3.6rem;
+  }
+
+  .FooterSection .FooterSub .CopyRightSection .AllRights {
+    float: none;
+  }
+}
